@@ -12,7 +12,7 @@ import Page from './Page.vue'
 import Footer from './Footer.vue'
 
 export default {
-  name: 'mainLayout',
+  name: 'MainLayout',
   components:{
     Header,
     Page,
